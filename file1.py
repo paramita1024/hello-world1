@@ -4,3 +4,5 @@ class ball:
     bat=1
   def print_it(self):
     pass
+  def its_me(self):
+    print "after changes"
